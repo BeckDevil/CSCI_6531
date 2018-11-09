@@ -11,7 +11,7 @@ def polynomial_kernel(power, coef, **kwargs):
 	return f
 
 def rbf_kernel(gamma, **kwargs):
-	def(x1, x2):
+	def f(x1, x2):
 		distance = np.linalg.norm(x1- x2) ** 2
 		return np.exp(-gamma * distance)
 	return f

@@ -1,0 +1,60 @@
+(32561, 15)
+(30162, 21)
+(30162, 36)
+(30162, 42)
+(30162, 55)
+(30162, 60)
+(30162, 64)
+(30162, 65)
+(30162, 66)
+Index(['age', 'fnlwgt', 'education.num', 'capital.gain', 'capital.loss',
+       'hours.per.week', 'income', 'Federal-gov', 'Local-gov', 'Private',
+       'Self-emp-inc', 'Self-emp-not-inc', 'State-gov', 'Without-pay', '10th',
+       '11th', '12th', '1st-4th', '5th-6th', '7th-8th', '9th', 'Assoc-acdm',
+       'Assoc-voc', 'Bachelors', 'Doctorate', 'HS-grad', 'Masters',
+       'Preschool', 'Prof-school', 'Some-college', 'Divorced',
+       'Married-AF-spouse', 'Married-civ-spouse', 'Married-spouse-absent',
+       'Never-married', 'Separated', 'Widowed', 'Adm-clerical', 'Armed-Forces',
+       'Craft-repair', 'Exec-managerial', 'Farming-fishing',
+       'Handlers-cleaners', 'Machine-op-inspct', 'Other-service',
+       'Priv-house-serv', 'Prof-specialty', 'Protective-serv', 'Sales',
+       'Tech-support', 'Transport-moving', 'Husband', 'Not-in-family',
+       'Other-relative', 'Own-child', 'Unmarried', 'Wife',
+       'Amer-Indian-Eskimo', 'Asian-Pac-Islander', 'Black', 'Other', 'White',
+       'Female', 'Male', 'United-States', 'non_usa'],
+      dtype='object')
+        age    fnlwgt  education.num   ...     Male  United-States  non_usa
+1  3.316575 -0.538781      -0.439731   ...        0              1        0
+3  1.184811 -0.467898      -2.400519   ...        0              1        0
+4  0.195064  0.708633      -0.047573   ...        0              1        0
+5 -0.337877  0.256218      -0.439731   ...        0              1        0
+6 -0.033339 -0.370958      -1.616204   ...        1              1        0
+
+[5 rows x 66 columns]
+-3.3331628170255394 2.305372599927824
+     pcost       dcost       gap    pres   dres
+ 0: -8.6404e+06 -2.0412e+10  4e+10  6e-01  2e-09
+ 1: -8.4307e+06 -5.2099e+09  5e+09  2e-09  2e-09
+ 2: -8.5319e+06 -7.2999e+07  6e+07  2e-09  9e-10
+ 3: -9.7338e+06 -1.9688e+07  1e+07  3e-10  7e-10
+ 4: -1.1534e+07 -1.7889e+07  6e+06  2e-09  7e-10
+ 5: -1.2129e+07 -1.6977e+07  5e+06  2e-10  7e-10
+ 6: -1.2368e+07 -1.6576e+07  4e+06  8e-10  6e-10
+ 7: -1.2561e+07 -1.6274e+07  4e+06  1e-09  6e-10
+ 8: -1.2666e+07 -1.6085e+07  3e+06  6e-10  6e-10
+ 9: -1.2794e+07 -1.5840e+07  3e+06  3e-10  7e-10
+10: -1.2835e+07 -1.5760e+07  3e+06  2e-09  7e-10
+11: -1.2883e+07 -1.5652e+07  3e+06  1e-09  6e-10
+12: -1.2930e+07 -1.5539e+07  3e+06  1e-09  7e-10
+13: -1.2963e+07 -1.5456e+07  2e+06  6e-10  6e-10
+14: -1.3005e+07 -1.5346e+07  2e+06  2e-10  6e-10
+15: -1.3076e+07 -1.5164e+07  2e+06  6e-11  6e-10
+16: -1.3150e+07 -1.4947e+07  2e+06  7e-10  7e-10
+17: -1.3197e+07 -1.4791e+07  2e+06  3e-09  7e-10
+18: -1.3199e+07 -1.4781e+07  2e+06  5e-10  8e-10
+19: -1.3208e+07 -1.4771e+07  2e+06  6e-10  7e-10
+20: -1.3393e+07 -1.4065e+07  7e+05  5e-10  8e-10
+21: -1.3511e+07 -1.3529e+07  2e+04  1e-09  1e-09
+22: -1.3514e+07 -1.3514e+07  2e+02  1e-09  2e-09
+23: -1.3514e+07 -1.3514e+07  2e+00  8e-10  2e-09
+Optimal solution found.

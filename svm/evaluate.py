@@ -1,6 +1,6 @@
 import os
 
-def get_f1_score(labels, predictions):
+def f1_score(labels, predictions):
 	TP = 0
 	FP = 0
 	TN = 0
